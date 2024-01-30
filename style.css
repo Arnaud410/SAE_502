@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.login-container {
+    margin: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.dashboard-container {
+    margin-top: 20px;
+}
